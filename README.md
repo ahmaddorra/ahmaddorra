@@ -1,4 +1,13 @@
-Hi 👋 My name is Dora The Explorer ==================================  I'm a Software Developer 👨‍💻 ------------------------------  Highly motivated software developer, with over a year of experience, skilled in multiple disciplines from backend to front-end coding. Established success record in seeing software engineering tasks from start to finish. Self-learner, passionate about ML and AI, determined to keep exploring and achieve extraordinary results.  * 🌍  I'm based in Beirut * ✉️  You can contact me at [ahmadeldorra1@gmail.com](mailto:ahmadeldorra1@gmail.com) * 🧠  I'm learning Python/Vue.js * 🤝  I'm open to collaborating on AI/ML projects * ⚡  I'm the real dora the explorer 🤫
+Hi 👋 My name is Dora The Explorer 
+==================================  
+I'm a Software Developer 👨‍💻 
+------------------------------  
+Highly motivated software developer, with over a year of experience, skilled in multiple disciplines from backend to front-end coding. Established success record in seeing software engineering tasks from start to finish. Self-learner, passionate about ML and AI, determined to keep exploring and achieve extraordinary results. 
+* 🌍  I'm based in Beirut 
+* ✉️  You can contact me at [ahmadeldorra1@gmail.com](mailto:ahmadeldorra1@gmail.com) 
+* 🧠  I'm learning Python/Vue.js 
+* 🤝  I'm open to collaborating on AI/ML projects 
+* ⚡  I'm the real dora the explorer 🤫
 
 <a href="https://www.github.com/ahmaddorra" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ahmaddorra?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 ### Skills
