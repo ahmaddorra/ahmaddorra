@@ -3,7 +3,7 @@ Hi 👋 My name is Dora The Explorer
 I'm a Software Developer 👨‍💻 
 ------------------------------  
 Highly motivated software developer, with over a year of experience, skilled in multiple disciplines from backend to front-end coding. Established success record in seeing software engineering tasks from start to finish. Self-learner, passionate about ML and AI, determined to keep exploring and achieve extraordinary results. 
-* 🌍  I'm based in Beirut 
+* 🌍  I'm based in Lebanon 
 * ✉️  You can contact me at [ahmadeldorra1@gmail.com](mailto:ahmadeldorra1@gmail.com) 
 * 🧠  I'm learning Python/Vue.js 
 * 🤝  I'm open to collaborating on AI/ML projects 
