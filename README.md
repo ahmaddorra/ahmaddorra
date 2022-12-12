@@ -1,4 +1,4 @@
-Hi 👋 My name is Dora The Explorer 
+Hi 👋 My name is Ahmad Dorra
 ==================================  
 I'm a Software Developer 👨‍💻 
 ------------------------------  
